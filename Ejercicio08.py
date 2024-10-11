@@ -4,7 +4,7 @@
 #y el resto de la división entera respectivamente.
 n = int(input("Escribir un nimero entero:"))
 m = int(input("Escribe un numero entero: "))
-c = (n % m)
-r = (n // m)
-print("El coeficiente c serai:", c)
-print("El coeficiente r seria:", r)
+r = (n % m)
+c = (n // m)
+print("El coeficiente c serai:", r)
+print("El coeficiente r seria:", c)
